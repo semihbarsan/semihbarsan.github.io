@@ -1,0 +1,14 @@
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\bin\Debug\GelirGiderOtomasyonu.exe.config
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\bin\Debug\GelirGiderOtomasyonu.exe
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\bin\Debug\GelirGiderOtomasyonu.pdb
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.Form1.resources
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.Properties.Resources.resources
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.csproj.GenerateResource.cache
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.exe
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.pdb
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.Malzemeler.resources
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.yardim.resources
+C:\Users\SEMİH\Source\Repos\GelirGiderOtomasyonu\GelirGiderOtomasyonu\obj\Debug\GelirGiderOtomasyonu.Giderler.resources
